@@ -11,7 +11,7 @@ class Chat {
   });
 }
 
-List chatsData = [
+ List<Chat> chatsData = [
   Chat(
     name: "Jenny Wilson",
     lastMessage: "Hope you are doing well...",
